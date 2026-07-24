@@ -30,6 +30,8 @@
 ---
 
 ## 화면 구성
+<img width="803" height="942" alt="image" src="https://github.com/user-attachments/assets/acced4b3-8a71-4300-ad59-32d02a73081a" />
+
 
 | 항목 | 설명 |
 | --- | --- |
