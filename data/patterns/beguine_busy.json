@@ -1,0 +1,56 @@
+{
+  "name": "Beguine Busy",
+  "description": "8분음표 베이스·뮤트·코드를 섞어 카리브해 특유의 percussive한 느낌을 살린 버전.",
+  "timeSignature": "4/4",
+  "length": 1,
+  "events": [
+    {
+      "beat": 1,
+      "type": "bass",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 1.5,
+      "type": "mute",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 2,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 2.5,
+      "type": "bass",
+      "durationBeats": 0.5,
+      "accent": true
+    },
+    {
+      "beat": 3,
+      "type": "mute",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 3.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 4,
+      "type": "bass",
+      "durationBeats": 0.5,
+      "accent": true
+    },
+    {
+      "beat": 4.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    }
+  ]
+}

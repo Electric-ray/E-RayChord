@@ -1,0 +1,14 @@
+{
+  "name": "GoGo 8Beat",
+  "description": "고고 리듬의 8비트 버전. 베이스는 1·3박에 두고 나머지는 8분음표로 코드를 잘게 끊어 친다.",
+  "timeSignature": "4/4",
+  "length": 1,
+  "events": [
+    { "beat": 1,   "type": "bass",  "durationBeats": 1,   "accent": false },
+    { "beat": 2,   "type": "chord", "durationBeats": 0.5, "accent": false },
+    { "beat": 2.5, "type": "chord", "durationBeats": 0.5, "accent": false },
+    { "beat": 3,   "type": "bass",  "durationBeats": 1,   "accent": false },
+    { "beat": 4,   "type": "chord", "durationBeats": 0.5, "accent": false },
+    { "beat": 4.5, "type": "chord", "durationBeats": 0.5, "accent": true  }
+  ]
+}

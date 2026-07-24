@@ -1,0 +1,44 @@
+{
+  "name": "Polka Oom-Pah-Pah",
+  "description": "폴카 특유의 '쿵-짝-짝'. 베이스 하나에 코드 두 번이 따라온다.",
+  "timeSignature": "4/4",
+  "length": 1,
+  "events": [
+    {
+      "beat": 1,
+      "type": "bass",
+      "durationBeats": 1,
+      "accent": false
+    },
+    {
+      "beat": 2,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 2.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": true
+    },
+    {
+      "beat": 3,
+      "type": "bass",
+      "durationBeats": 1,
+      "accent": false
+    },
+    {
+      "beat": 4,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 4.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": true
+    }
+  ]
+}

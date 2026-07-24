@@ -1,0 +1,44 @@
+{
+  "name": "Country Eighth Train",
+  "description": "8분음표로 계속 굴러가는 '트레인 비트'. 1·3박은 베이스, 나머지는 8분음표 코드.",
+  "timeSignature": "4/4",
+  "length": 1,
+  "events": [
+    {
+      "beat": 1,
+      "type": "bass",
+      "durationBeats": 1,
+      "accent": false
+    },
+    {
+      "beat": 2,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 2.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 3,
+      "type": "bass",
+      "durationBeats": 1,
+      "accent": false
+    },
+    {
+      "beat": 4,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 4.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    }
+  ]
+}

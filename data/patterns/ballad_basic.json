@@ -1,0 +1,20 @@
+{
+  "name": "Ballad Basic",
+  "description": "느린 발라드용 단순 스트럼. 1박에 화음을 길게 끌고 4박 뒷박에서 코드가 바뀔 걸 예고하듯 살짝 짚어준다.",
+  "timeSignature": "4/4",
+  "length": 1,
+  "events": [
+    {
+      "beat": 1,
+      "type": "chord",
+      "durationBeats": 3,
+      "accent": false
+    },
+    {
+      "beat": 4.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Slow GoGo Basic",
+  "description": "느린 템포용 고고. 베이스와 코드를 2박씩 길게 끌어 여백을 준다.",
+  "timeSignature": "4/4",
+  "length": 1,
+  "events": [
+    {
+      "beat": 1,
+      "type": "bass",
+      "durationBeats": 2,
+      "accent": false
+    },
+    {
+      "beat": 3,
+      "type": "chord",
+      "durationBeats": 2,
+      "accent": false
+    }
+  ]
+}

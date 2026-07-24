@@ -1,0 +1,44 @@
+{
+  "name": "Rumba Box",
+  "description": "볼룸 룸바 박스 리듬의 단순화 버전. 2·4박 코드에 액센트.",
+  "timeSignature": "4/4",
+  "length": 1,
+  "events": [
+    {
+      "beat": 1,
+      "type": "bass",
+      "durationBeats": 1,
+      "accent": false
+    },
+    {
+      "beat": 2,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": true
+    },
+    {
+      "beat": 2.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 3,
+      "type": "bass",
+      "durationBeats": 1,
+      "accent": false
+    },
+    {
+      "beat": 4,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": true
+    },
+    {
+      "beat": 4.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    }
+  ]
+}

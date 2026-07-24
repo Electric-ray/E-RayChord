@@ -1,0 +1,44 @@
+{
+  "name": "Calypso Mute",
+  "description": "베이스 뒤에 뮤트를 넣어 리듬감을 강조한 칼립소.",
+  "timeSignature": "4/4",
+  "length": 1,
+  "events": [
+    {
+      "beat": 1,
+      "type": "bass",
+      "durationBeats": 1,
+      "accent": false
+    },
+    {
+      "beat": 2,
+      "type": "mute",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 2.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": true
+    },
+    {
+      "beat": 3,
+      "type": "bass",
+      "durationBeats": 1,
+      "accent": false
+    },
+    {
+      "beat": 4,
+      "type": "mute",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 4.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": true
+    }
+  ]
+}

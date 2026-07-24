@@ -1,0 +1,26 @@
+{
+  "name": "Beguine Basic",
+  "description": "느리고 여백이 많은 비긴. 1박에 화음을 길게 끌고 3·4박에 마무리한다.",
+  "timeSignature": "4/4",
+  "length": 1,
+  "events": [
+    {
+      "beat": 1,
+      "type": "chord",
+      "durationBeats": 2,
+      "accent": false
+    },
+    {
+      "beat": 3,
+      "type": "bass",
+      "durationBeats": 1,
+      "accent": false
+    },
+    {
+      "beat": 4,
+      "type": "chord",
+      "durationBeats": 1,
+      "accent": false
+    }
+  ]
+}

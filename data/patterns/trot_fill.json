@@ -1,0 +1,56 @@
+{
+  "name": "Trot Fill",
+  "description": "마디 끝에 16분음표 필인을 넣어 다음 코드로 넘어가는 느낌을 준다.",
+  "timeSignature": "4/4",
+  "length": 1,
+  "events": [
+    {
+      "beat": 1,
+      "type": "bass",
+      "durationBeats": 1,
+      "accent": true
+    },
+    {
+      "beat": 2,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 2.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 3,
+      "type": "bass",
+      "durationBeats": 1,
+      "accent": true
+    },
+    {
+      "beat": 4,
+      "type": "chord",
+      "durationBeats": 0.25,
+      "accent": false
+    },
+    {
+      "beat": 4.25,
+      "type": "chord",
+      "durationBeats": 0.25,
+      "accent": false
+    },
+    {
+      "beat": 4.5,
+      "type": "chord",
+      "durationBeats": 0.25,
+      "accent": false
+    },
+    {
+      "beat": 4.75,
+      "type": "chord",
+      "durationBeats": 0.25,
+      "accent": true
+    }
+  ]
+}

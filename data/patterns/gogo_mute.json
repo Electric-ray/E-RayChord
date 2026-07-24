@@ -1,0 +1,14 @@
+{
+  "name": "GoGo Mute",
+  "description": "고고 리듬에 뮤트(치킹)를 섞은 버전. 베이스 뒤에 뮤트로 '치익' 소리를 넣고 코드는 여린박에만 울린다.",
+  "timeSignature": "4/4",
+  "length": 1,
+  "events": [
+    { "beat": 1,   "type": "bass",  "durationBeats": 1,   "accent": false },
+    { "beat": 2,   "type": "mute",  "durationBeats": 0.5, "accent": false },
+    { "beat": 2.5, "type": "chord", "durationBeats": 0.5, "accent": false },
+    { "beat": 3,   "type": "bass",  "durationBeats": 1,   "accent": false },
+    { "beat": 4,   "type": "mute",  "durationBeats": 0.5, "accent": false },
+    { "beat": 4.5, "type": "chord", "durationBeats": 0.5, "accent": true  }
+  ]
+}

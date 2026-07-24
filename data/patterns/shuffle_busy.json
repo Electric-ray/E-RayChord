@@ -1,0 +1,56 @@
+{
+  "name": "Shuffle Busy (Straight Approx.)",
+  "description": "8분음표로 꽉 채운 셔플 근사 패턴. 2·4박에 백비트 액센트.",
+  "timeSignature": "4/4",
+  "length": 1,
+  "events": [
+    {
+      "beat": 1,
+      "type": "bass",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 1.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 2,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": true
+    },
+    {
+      "beat": 2.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 3,
+      "type": "bass",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 3.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 4,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": true
+    },
+    {
+      "beat": 4.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    }
+  ]
+}

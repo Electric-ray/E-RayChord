@@ -1,0 +1,38 @@
+{
+  "name": "Bossa Nova Muted",
+  "description": "트레실로 강세 사이사이에 뮤트를 넣어 손바닥 뮤트 타법을 흉내낸 버전.",
+  "timeSignature": "4/4",
+  "length": 1,
+  "events": [
+    {
+      "beat": 1,
+      "type": "bass",
+      "durationBeats": 1,
+      "accent": false
+    },
+    {
+      "beat": 2,
+      "type": "mute",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 2.5,
+      "type": "chord",
+      "durationBeats": 1,
+      "accent": true
+    },
+    {
+      "beat": 3.5,
+      "type": "bass",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 4,
+      "type": "chord",
+      "durationBeats": 1,
+      "accent": false
+    }
+  ]
+}

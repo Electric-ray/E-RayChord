@@ -1,0 +1,189 @@
+{
+  "patterns": [
+    {
+      "name": "GoGo 8Beat",
+      "category": "고고",
+      "file": "gogo_8beat.json"
+    },
+    {
+      "name": "GoGo Basic",
+      "category": "고고",
+      "file": "gogo_basic.json"
+    },
+    {
+      "name": "GoGo Fast",
+      "category": "고고",
+      "file": "gogo_fast.json"
+    },
+    {
+      "name": "GoGo Mute",
+      "category": "고고",
+      "file": "gogo_mute.json"
+    },
+    {
+      "name": "Slow GoGo Basic",
+      "category": "슬로우고고",
+      "file": "slowgogo_basic.json"
+    },
+    {
+      "name": "Slow GoGo Boom-Chick",
+      "category": "슬로우고고",
+      "file": "slowgogo_boomchick.json"
+    },
+    {
+      "name": "Slow GoGo Mute",
+      "category": "슬로우고고",
+      "file": "slowgogo_mute.json"
+    },
+    {
+      "name": "Shuffle Busy (Straight Approx.)",
+      "category": "셔플",
+      "file": "shuffle_busy.json"
+    },
+    {
+      "name": "Shuffle Mute (Straight Approx.)",
+      "category": "셔플",
+      "file": "shuffle_mute.json"
+    },
+    {
+      "name": "Shuffle (Straight Approx.)",
+      "category": "셔플",
+      "file": "shuffle_straight.json"
+    },
+    {
+      "name": "Calypso Basic",
+      "category": "칼립소",
+      "file": "calypso_basic.json"
+    },
+    {
+      "name": "Calypso Mute",
+      "category": "칼립소",
+      "file": "calypso_mute.json"
+    },
+    {
+      "name": "Calypso Syncopated",
+      "category": "칼립소",
+      "file": "calypso_syncopated.json"
+    },
+    {
+      "name": "Bossa Nova Basic",
+      "category": "보사노바",
+      "file": "bossanova_basic.json"
+    },
+    {
+      "name": "Bossa Nova Busy",
+      "category": "보사노바",
+      "file": "bossanova_busy.json"
+    },
+    {
+      "name": "Bossa Nova Muted",
+      "category": "보사노바",
+      "file": "bossanova_muted.json"
+    },
+    {
+      "name": "Country Basic",
+      "category": "컨트리",
+      "file": "country_basic.json"
+    },
+    {
+      "name": "Country Boom-Chick",
+      "category": "컨트리",
+      "file": "country_boomchick.json"
+    },
+    {
+      "name": "Country Eighth Train",
+      "category": "컨트리",
+      "file": "country_eighth.json"
+    },
+    {
+      "name": "Polka Basic",
+      "category": "폴카",
+      "file": "polka_basic.json"
+    },
+    {
+      "name": "Polka Fast",
+      "category": "폴카",
+      "file": "polka_fast.json"
+    },
+    {
+      "name": "Polka Oom-Pah-Pah",
+      "category": "폴카",
+      "file": "polka_oompahpah.json"
+    },
+    {
+      "name": "Trot Basic",
+      "category": "트로트",
+      "file": "trot_basic.json"
+    },
+    {
+      "name": "Trot Fast",
+      "category": "트로트",
+      "file": "trot_fast.json"
+    },
+    {
+      "name": "Trot Fill",
+      "category": "트로트",
+      "file": "trot_fill.json"
+    },
+    {
+      "name": "Rumba Box",
+      "category": "룸바",
+      "file": "rumba_box.json"
+    },
+    {
+      "name": "Rumba Busy",
+      "category": "룸바",
+      "file": "rumba_busy.json"
+    },
+    {
+      "name": "Rumba Muted",
+      "category": "룸바",
+      "file": "rumba_muted.json"
+    },
+    {
+      "name": "Beguine Basic",
+      "category": "비긴",
+      "file": "beguine_basic.json"
+    },
+    {
+      "name": "Beguine Busy",
+      "category": "비긴",
+      "file": "beguine_busy.json"
+    },
+    {
+      "name": "Beguine Muted",
+      "category": "비긴",
+      "file": "beguine_muted.json"
+    },
+    {
+      "name": "Ballad Basic",
+      "category": "발라드",
+      "file": "ballad_basic.json"
+    },
+    {
+      "name": "Ballad Pulse",
+      "category": "발라드",
+      "file": "ballad_pulse.json"
+    },
+    {
+      "name": "Slow Rock 8Beat",
+      "category": "슬로우락",
+      "file": "slowrock_8beat.json"
+    },
+    {
+      "name": "Slow Rock Chug",
+      "category": "슬로우락",
+      "file": "slowrock_chug.json"
+    },
+    {
+      "name": "Folk Busy",
+      "category": "포크",
+      "file": "folk_busy.json"
+    },
+    {
+      "name": "Folk Eighth",
+      "category": "포크",
+      "file": "folk_eighth.json"
+    }
+  ]
+}

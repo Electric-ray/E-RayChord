@@ -1,0 +1,26 @@
+{
+  "name": "Bossa Nova Basic",
+  "description": "트레실로(3-3-2) 강세 위치(1, 2.5, 4)를 기준으로 한 단순화된 보사노바 근사 패턴.",
+  "timeSignature": "4/4",
+  "length": 1,
+  "events": [
+    {
+      "beat": 1,
+      "type": "bass",
+      "durationBeats": 1,
+      "accent": false
+    },
+    {
+      "beat": 2.5,
+      "type": "chord",
+      "durationBeats": 1,
+      "accent": true
+    },
+    {
+      "beat": 4,
+      "type": "chord",
+      "durationBeats": 1,
+      "accent": false
+    }
+  ]
+}

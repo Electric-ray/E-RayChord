@@ -1,0 +1,11 @@
+{
+  "name": "GoGo Basic",
+  "timeSignature": "4/4",
+  "length": 1,
+  "events": [
+    { "beat": 1, "type": "bass" },
+    { "beat": 2, "type": "chord" },
+    { "beat": 3, "type": "bass" },
+    { "beat": 4, "type": "chord" }
+  ]
+}

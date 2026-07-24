@@ -1,0 +1,44 @@
+{
+  "name": "Folk Eighth",
+  "description": "포크송 반주에 흔한 패턴. 베이스 후 뮤트로 살짝 끊어주고 뒷박에 코드를 채운다.",
+  "timeSignature": "4/4",
+  "length": 1,
+  "events": [
+    {
+      "beat": 1,
+      "type": "bass",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 1.5,
+      "type": "mute",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 2,
+      "type": "chord",
+      "durationBeats": 1,
+      "accent": false
+    },
+    {
+      "beat": 3,
+      "type": "bass",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 3.5,
+      "type": "mute",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 4,
+      "type": "chord",
+      "durationBeats": 1,
+      "accent": false
+    }
+  ]
+}

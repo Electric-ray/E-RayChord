@@ -1,0 +1,44 @@
+{
+  "name": "Calypso Syncopated",
+  "description": "1박을 비우고 뒷박부터 들어가는 당김음 위주의 칼립소.",
+  "timeSignature": "4/4",
+  "length": 1,
+  "events": [
+    {
+      "beat": 1.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": true
+    },
+    {
+      "beat": 2,
+      "type": "bass",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 2.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 3.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 4,
+      "type": "bass",
+      "durationBeats": 0.5,
+      "accent": false
+    },
+    {
+      "beat": 4.5,
+      "type": "chord",
+      "durationBeats": 0.5,
+      "accent": true
+    }
+  ]
+}

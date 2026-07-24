@@ -1,0 +1,32 @@
+{
+  "name": "Slow GoGo Boom-Chick",
+  "description": "표준 4분음표 붐칙. 느린 템포에서 연주하면 슬로우고고 느낌이 난다.",
+  "timeSignature": "4/4",
+  "length": 1,
+  "events": [
+    {
+      "beat": 1,
+      "type": "bass",
+      "durationBeats": 1,
+      "accent": false
+    },
+    {
+      "beat": 2,
+      "type": "chord",
+      "durationBeats": 1,
+      "accent": false
+    },
+    {
+      "beat": 3,
+      "type": "bass",
+      "durationBeats": 1,
+      "accent": false
+    },
+    {
+      "beat": 4,
+      "type": "chord",
+      "durationBeats": 1,
+      "accent": false
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Ballad Pulse",
+  "description": "1·3박에 화음을 짚어주는 훨씬 더 단순한 발라드 펄스.",
+  "timeSignature": "4/4",
+  "length": 1,
+  "events": [
+    {
+      "beat": 1,
+      "type": "chord",
+      "durationBeats": 2,
+      "accent": false
+    },
+    {
+      "beat": 3,
+      "type": "chord",
+      "durationBeats": 1,
+      "accent": true
+    },
+    {
+      "beat": 4,
+      "type": "chord",
+      "durationBeats": 1,
+      "accent": false
+    }
+  ]
+}
